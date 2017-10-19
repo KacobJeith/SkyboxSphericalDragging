@@ -5,3 +5,7 @@ I figured there aren't enough drag and drop implementations out there, so here's
 
 # Running
 This is built in Unity 2017.1.2
+Hosting is run on Firebase, using the default WebGL build of the project
+
+# Demo
+Check out a demo of this quick project at https://unity-spherical-dragging-1.firebaseapp.com/
